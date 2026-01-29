@@ -72,10 +72,7 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
               rel="noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-full transition-all transform hover:-translate-y-1 shadow-lg shadow-blue-900/50"
             >
-              ĐĂNG KÝ NGAY
-            </a>
-          </div>
-          
+                    
           <div className="space-y-2 text-sm md:text-base">
             <p className="font-medium text-slate-400">Mọi thông tin vui lòng liên hệ:</p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-2 md:gap-6">
@@ -96,5 +93,6 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
         </div>
       </footer>
 ```
+
 
 
