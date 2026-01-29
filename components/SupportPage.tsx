@@ -25,7 +25,7 @@ const SupportPage: React.FC = () => {
                                 <School className="w-5 h-5 flex-shrink-0" />
                                 <div>
                                     <div className="text-sm text-teal-100">Trường</div>
-                                    <div className="font-bold">THPT Khúc Thừa Dụ</div>
+                                    <div className="font-bold">THCS Nguyễn Văn Bánh</div>
                                 </div>
                             </div>
 
@@ -33,7 +33,7 @@ const SupportPage: React.FC = () => {
                                 <MapPin className="w-5 h-5 flex-shrink-0" />
                                 <div>
                                     <div className="text-sm text-teal-100">Địa chỉ</div>
-                                    <div className="font-bold">Vĩnh Lại - TP Hải Phòng</div>
+                                    <div className="font-bold">Nhuận Phú Tân - Tỉnh Vĩnh Long</div>
                                 </div>
                             </div>
 
@@ -191,3 +191,4 @@ const SupportPage: React.FC = () => {
 };
 
 export default SupportPage;
+
