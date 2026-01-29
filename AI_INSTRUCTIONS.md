@@ -54,7 +54,7 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
 - **Style**: Màu nền tối (`bg-slate-800`), chữ sáng (`text-slate-300`), có hiệu ứng glassmorphism cho box quảng cáo.
 - **Nội dung bắt buộc**:
   - Tiêu đề: "ĐĂNG KÝ KHOÁ HỌC THỰC CHIẾN VIẾT SKKN, TẠO APP DẠY HỌC, TẠO MÔ PHỎNG TRỰC QUAN CHỈ VỚI 1 CÂU LỆNH"
-  - Link khóa học: `https://forms.gle/19fbZmmHW5rEtxxG7`
+  - Link khóa học: ``
   - Thông tin liên hệ: Facebook (https://www.facebook.com/vongoctungthcs/) và Zalo (0814666040).
 - **Code mẫu**:
 ```tsx
@@ -96,3 +96,4 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
         </div>
       </footer>
 ```
+
