@@ -67,7 +67,7 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
               <span className="text-yellow-400">CHỈ VỚI 1 CÂU LỆNH</span>
             </p>
             <a 
-              href="https://forms.gle/d7AmcT9MTyGy7bJd8" 
+              href="" 
               target="_blank" 
               rel="noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-full transition-all transform hover:-translate-y-1 shadow-lg shadow-blue-900/50"
@@ -96,4 +96,5 @@ Tôi đang triển khai ứng dụng từ github qua vercel, hãy kiểm tra gi�
         </div>
       </footer>
 ```
+
 
